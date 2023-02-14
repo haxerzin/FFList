@@ -71,4 +71,4 @@ python fflist.py -r dirs.txt -print
 
 ## License
 
-<a href="https://github.com/haxerzin/FFList/LICENSE" title="License">GPLv3</a>
+<a href="https://github.com/haxerzin/FFList/blob/main/LICENSE" title="License">GPLv3</a>
