@@ -9,7 +9,7 @@
     A Fast Asynchronous System File Lister
 </p>
 
-## Features v1.0.0.7
+## Features
 
 - [x] Completely Asynchronous
 - [x] Gather All System Files
